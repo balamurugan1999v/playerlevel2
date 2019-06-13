@@ -1,5 +1,4 @@
 a1,k1=input().split()
-#
 a=int(a1)
 k=int(k1)
 arr1=input().split()
@@ -19,4 +18,4 @@ for i in range(a):
   if co==k and s1[i] not in s2:
     s2.append(s1[i])
 for i in s2:
-  print (i)
+  print (i,end=" ")
