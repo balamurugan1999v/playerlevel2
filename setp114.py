@@ -5,3 +5,4 @@ c=int(c1)
 d=a**b
 e=d%c
 print(e)
+#
