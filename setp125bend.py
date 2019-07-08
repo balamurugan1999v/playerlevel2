@@ -1,7 +1,6 @@
 n1=int(input()) 
 b=input().split()
 s1=[]
-#c=1
 for i in b:
   s1.append(int(i))
 s1.sort()
